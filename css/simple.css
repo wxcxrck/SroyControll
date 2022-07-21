@@ -1,0 +1,33 @@
+.conteiner {
+    width: 1040px;
+    margin: 0 auto;
+}
+.simple {
+    margin-top: 142px;
+}
+
+.simple__box {
+    text-align: center;
+    width: 1040px;
+}
+
+.simple__title {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 32px;
+    color: #212B31;
+    text-align: center;
+}
+
+.simple__discription {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    width:1015px;
+    color: #72787D;
+    margin-top: 16px;
+}
+.simple__icon {
+    margin-top: 40px;
+} 

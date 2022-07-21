@@ -1,0 +1,11 @@
+.partners__content {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 78px;
+}
+
+.partners__sector {
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}

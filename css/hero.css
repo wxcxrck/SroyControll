@@ -1,0 +1,37 @@
+.hero__title {
+    font-family: "inter";
+    font-weight: 400;
+    font-size: 48px;
+    text-align: center;
+    color: #212b31;
+
+    width: 818px;
+    margin: 0 auto;
+    margin-top: 74px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.hero__btns {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+
+}
+
+.hero__img {
+    text-align: center;
+    margin-top: 38px;
+}
+
+.hero__btns button {
+    margin: 0 20px;
+}
+
+.hero__city {
+    margin-top: 88px;
+}
+
+.hero__cars {
+    margin-top: 36 px;
+}

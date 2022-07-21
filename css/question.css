@@ -1,0 +1,50 @@
+.question__title {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 32px;
+    text-align: center;
+    margin-top: 78px;
+    color: #212B31;
+}
+
+.question__description {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 20px;
+    text-align: center;
+    line-height: 32px;
+    color: #72787D;
+
+}
+
+.question__suptitle {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 18px;
+    color: #212B31;
+
+}
+
+.question__details {
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 16px;
+    color: #72787D;
+    line-height: 24px;
+}
+
+.question__sector {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between;
+    align-items:  center;
+}
+
+.question__text {
+    width: 550px;
+    margin-top: 64px;
+    
+}
+.question__img {
+    margin-top: 64px;
+}
